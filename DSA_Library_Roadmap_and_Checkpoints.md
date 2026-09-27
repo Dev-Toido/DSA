@@ -43,10 +43,10 @@ Checkpoint
 
 ## Tasks
 
-- [ ] Create the GitHub repository.
-- [ ] Decide the Java version.
-- [ ] Set up the project structure.
-- [ ] Set up `src/main` and `src/test`.
+- [x] Create the GitHub repository.
+- [x] Decide the Java version.
+- [x] Set up the project structure.
+- [x] Set up `src/main` and `src/test`.
 - [ ] Establish package naming conventions.
 - [ ] Add `.gitignore`.
 - [ ] Create the initial README.
